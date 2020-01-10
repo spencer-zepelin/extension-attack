@@ -1,3 +1,7 @@
+******
+NOTE: SHA1 has been proven to be insecure and should not be used where a cryptographically secure hash function is needed.
+******
+
 Applied Cryptography
 MPCS 56530
 
